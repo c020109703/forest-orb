@@ -118,6 +118,6 @@
     },
     "location": {
       "unknownLocation": "알수 없는 장소"
-    }
+      "Querying Location...": "위치 검색중..."}
   }
 }
